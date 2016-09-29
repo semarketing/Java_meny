@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Meny {
     private static int val;    /*choice=val*/
 	public static void main(String[] args) throws NumberFormatException, IOException {
-		// TODO Auto-generated method stub
+		// TODO: Auto-generated method stub
 		do{
 			System.out.println("[1] Val");
 			System.out.println("[2] Val");
